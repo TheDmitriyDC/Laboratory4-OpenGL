@@ -1,0 +1,21 @@
+# Vertex Count = 4
+v 0.5 0.0 0.5
+v 0.5 0.0 -0.5
+v -0.5 0.0 0.5
+v -0.5 0.0 -0.5
+
+# Normal Count = 4
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+
+# UV Count = 4
+vt 1 1
+vt 1 0
+vt 0 1
+vt 0 0
+
+# Face Count = 2
+f 1/1/1 2/2/2 3/3/3
+f 2/2/2 4/4/4 3/3/3

@@ -1,0 +1,33 @@
+﻿  main.cpp
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  Generating Code...
+  Compiling...
+  TessModel.cpp
+f:\programing\opengl\opengl\tessmodel.cpp(43): warning C4101: 'Projection': unreferenced local variable
+f:\programing\opengl\opengl\tessmodel.cpp(44): warning C4101: 'Modelview': unreferenced local variable
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  SceneObject.cpp
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  SceneLevel.cpp
+f:\programing\opengl\opengl\scenelevel.cpp(239): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\programing\opengl\opengl\scenelevel.cpp(240): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\programing\opengl\opengl\scenelevel.cpp(248): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\programing\opengl\opengl\scenelevel.cpp(249): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\programing\opengl\opengl\scenelevel.cpp(250): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  Scene.cpp
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  MovingLight.cpp
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  MaterialBox.cpp
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GeometryModel.cpp
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'F:\Programing\Opengl\Debug\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'F:\Programing\Opengl\Debug\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(SOIL.obj)' or at 'F:\Programing\Opengl\Debug\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'F:\Programing\Opengl\Debug\SOIL.pdb'; linking object as if no debug info
+  opengl.vcxproj -> F:\Programing\Opengl\Debug\opengl.exe
+  opengl.vcxproj -> F:\Programing\Opengl\Debug\opengl.pdb (Partial PDB)

@@ -1,0 +1,124 @@
+# Ripped By Son of Persia
+# October 2012
+
+newmtl head_material_0
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd pl0000_00eye_BM.tga
+map_Ks pl0000_00eye_MM.tga
+
+newmtl head_material_1
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd pl0000_00_earLight_BM.tga
+
+newmtl head_material_2
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd pl0000_00eyeCov_BM.tga
+map_Ks pl0000_00eyeCov_MM.tga
+map_bump pl0000_00eyeCov_NM.tga
+
+newmtl head_material_3
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd pl0000_00eyelash_BM.tga
+
+newmtl head_material_5
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd pl0010_00head_BM.tga
+map_Ks pl0000_00head_MM.tga
+map_bump pl0000_00head_NM.tga
+
+newmtl head_material_4
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd pl0000_00hair_BM.tga
+map_Ks pl0000_00hair_MM.tga
+
+newmtl material_0
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd pl0010_20_vest_BM.tga
+map_Ks pl0010_20_vest_MM.tga
+map_bump pl0010_20_vest_NM.tga
+
+newmtl material_1
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd pl0010_22_leather_BM.tga
+map_Ks pl0010_22_leather_MM.tga
+map_bump pl0010_22_leather_NM.tga
+
+newmtl material_2
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd pl0010_23_bottom_BM.tga
+map_Ks pl0010_23_bottom_MM.tga
+map_bump pl0010_23_bottom_NM.tga
+
+newmtl material_3
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd pl0010_25_shoes_BM.tga
+map_Ks pl0010_25_shoes_MM.tga
+map_bump pl0010_25_shoes_NM.tga
+
+newmtl material_4
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd pl0010_21_shirts_BM.tga
+map_Ks pl0010_21_shirts_MM.tga
+
+newmtl material_5
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd pl0010_24_hand_BM.tga
+map_Ks pl0010_24_hand_MM.tga
+map_bump pl0010_24_hand_NM.tga
+
+newmtl material_6
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd pl0010_16_holster_BM.tga
+map_Ks pl0010_16_holster_MM.tga

@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Frame">
+      <UniqueIdentifier>{1d97269d-bdca-490b-be97-fb5c83336a41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource">
+      <UniqueIdentifier>{a4bc9466-f46f-4bd4-87f3-b817ff8eb18c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Models">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource\Tessellation">
+      <UniqueIdentifier>{80edeb45-32cc-49eb-9466-a4cb64256bcf}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ResourceManager.cpp">
+      <Filter>Frame</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>Frame</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Frame</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneLevel.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneObject.cpp">
+      <Filter>Frame</Filter>
+    </ClCompile>
+    <ClCompile Include="MovingLight.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="MaterialBox.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="GeometryModel.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="TessModel.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="camera.h">
+      <Filter>Frame</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManager.h">
+      <Filter>Frame</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>Frame</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Frame</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneLevel.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneObject.h">
+      <Filter>Frame</Filter>
+    </ClInclude>
+    <ClInclude Include="MovingLight.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="MaterialBox.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadModel.h">
+      <Filter>Frame</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>Frame</Filter>
+    </ClInclude>
+    <ClInclude Include="GeometryModel.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="TessModel.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Shaders\lamp.fs">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="Assets\Shaders\lamp.vs">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="Assets\Shaders\materials.fs">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="Assets\Shaders\materials.vs">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="Assets\Shaders\model.fs">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="Assets\Shaders\model.vs">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="Assets\Shaders\skybox.fs">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="Assets\Shaders\skybox.vs">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="Assets\Shaders\star.fs">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="Assets\Shaders\star.gs">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="Assets\Shaders\star.vs">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="Assets\Shaders\multi_light.fs">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="Assets\Shaders\multi_light.vs">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="Assets\Shaders\tess_frag.fs">
+      <Filter>Resource\Tessellation</Filter>
+    </None>
+    <None Include="Assets\Shaders\tess_geo.gs">
+      <Filter>Resource\Tessellation</Filter>
+    </None>
+    <None Include="Assets\Shaders\tess_quad.tcs">
+      <Filter>Resource\Tessellation</Filter>
+    </None>
+    <None Include="Assets\Shaders\tess_quad.tes">
+      <Filter>Resource\Tessellation</Filter>
+    </None>
+    <None Include="Assets\Shaders\tess_tri.tcs">
+      <Filter>Resource\Tessellation</Filter>
+    </None>
+    <None Include="Assets\Shaders\tess_tri.tes">
+      <Filter>Resource\Tessellation</Filter>
+    </None>
+    <None Include="Assets\Shaders\tess_vert.vs">
+      <Filter>Resource\Tessellation</Filter>
+    </None>
+  </ItemGroup>
+</Project>
